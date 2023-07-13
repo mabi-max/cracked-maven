@@ -10,7 +10,7 @@ const Header = () => (
       <SubHeading title="Experience every script"/>
       <h1 className='app__header-h1'>The Key to Fine Writing</h1>
       <p className='p__opensans' style={{ margin: '2rem 0'}}> Experience the best of storytelling. We take dreams and imaginatons and turn them into a reality. What are you waiting for? get started with us. </p>
-       <button type='button' className='custom__button'>Get Sterted</button>
+       <button type='button' className='custom__button'>Get Started</button>
     </div>
 
     <div className='app__wrapper_img'>
