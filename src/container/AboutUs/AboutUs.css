@@ -29,11 +29,12 @@
 }
 
 .app__aboutus-content_knife{
-    margin: 2rem 4rem;
+    margin: -10rem 4rem;
 }
 
 .app__aboutus-content_knife img{
     height: 910px;
+     /* box-shadow: 0 0 10px 5px white; */
 }
 
 .app__aboutus-content_history{
@@ -48,7 +49,7 @@
 
 .app__aboutus-content_history p,
 .app__aboutus-content_about p {
-    margin: 2rem 0;
+    margin: 1rem 0;
     color: var(--color-grey);
 }
 
@@ -61,15 +62,18 @@
     .app__aboutus-content_about p {
     margin: 4rem 0;
 }
+.app__aboutus-content_knife{
+    margin: -12rem 4rem;
+}
  }
 
 @media screen and (max-width: 900px) {
     .app__aboutus-content{
         flex-direction: column;
     }
-    .app__aboutus-content_knife{
+    /* .app__aboutus-content_knife{
         margin: 4rem 0;
-    }
+    } */
 
 }
 

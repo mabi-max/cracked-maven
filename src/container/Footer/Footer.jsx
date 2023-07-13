@@ -19,7 +19,8 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_logo">
-        <img src={images.gericht} alt='footer_logo' />
+        {/* <img src={images.gericht} alt='footer_logo' /> */}
+        <div style={{ color: '#fff', fontSize: '30px', paddingBottom: '2rem'}}>CrackedMaven</div>
         <p className="p__opensans">&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</p>
         <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} alt='spoon' />
         <div className="app__footer-links_icons">

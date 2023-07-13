@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import filming from '../assets/filming.jpg';
-import pen from '../assets/pen.jpg';
+import penbg from '../assets/penbg.png';
 import pencil from '../assets/pencil.jpg';
 import writing from '../assets/writing.jpg';
 import typing from '../assets/typing.jpg';
@@ -51,7 +51,7 @@ export default {
   quote,
   gericht,
   filming,
-  pen,
+  penbg,
   pencil,
   writing,
   typing,
